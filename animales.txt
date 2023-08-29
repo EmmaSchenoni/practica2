@@ -1,0 +1,6 @@
+perro
+girafa
+elefante
+leon
+conejo
+suricata
